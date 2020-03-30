@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   FilterList:
   - TargetWord: nigga
-    ReplaceWithWord: proud african american
+    ReplaceWithWord: proud african friend
   - TargetWord: n1gga
-    ReplaceWithWord: proud african american
+    ReplaceWithWord: proud african friend
   - TargetWord: n1gg4
-    ReplaceWithWord: proud african american
+    ReplaceWithWord: proud african friend
   - TargetWord: n i g g a
-    ReplaceWithWord: proud african american
+    ReplaceWithWord: proud african friend
   - TargetWord: hitler
     ReplaceWithWord: fopdoodle
   - TargetWord: dick
@@ -54,4 +54,6 @@ MonoBehaviour:
   - TargetWord: cunt
     ReplaceWithWord: great person
   - TargetWord: nigger
-    ReplaceWithWord: proud african american
+    ReplaceWithWord: proud african friend
+  - TargetWord: niggers
+    ReplaceWithWord: proud african friends
